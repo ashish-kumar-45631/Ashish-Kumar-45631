@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
-<h3 align="center">Student of Computer Science and Engineering.</h3>
 
-<img
-  align="right"
-  alt="coding"
-  width="400px"
-  src="<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+  <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
   <h3 align="center">Student of Computer Science and Engineering.</h3>
   
   <img
