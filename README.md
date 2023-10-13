@@ -15,7 +15,7 @@
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a
-      href="https://linkedin.com/in/www.linkedin.com/in/ashish-kumar-155169251"
+      href="https://linkedin.com/in/ashish-kumar-155169251"
       target="blank"
       ><img
         align="center"
