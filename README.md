@@ -29,7 +29,7 @@
 ### Language and Tools
 - **Operating System:** Mac, Windows, Linux
 - **Languages:** C/C++, Python
-- **Web Development:** MERN/MEAN Stack, HTML, CSS, React
+- **Web Development:** MERN/MEAN Stack, HTML, CSS, JS
 - **Database:** MySQL, Oracle Database
 - **Tools:** GitHub, XAMPP, Microsoft Azure
 
@@ -167,9 +167,8 @@
 
 ### Hobbies
 - Reading and writing articles
-- Playing Chess and Basketball
-- Cycling
-
+- Playing Chess♞
+- Cycling🚲
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
