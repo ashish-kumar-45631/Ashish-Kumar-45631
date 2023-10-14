@@ -18,7 +18,7 @@
   src="https://previews.123rf.com/images/jihane123/jihane1231605/jihane123160500015/56949834-beautiful-university-cartoon.jpg"
 />
 
-- **Graduation:** Computer Science and Engineering, Graphic Era University, Dehradun (2025 - Ongoing)
+- **Graduation:** Bachelor of Techonology, Graphic Era University, Dehradun (2025 - Ongoing)
 - **Intermediate:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2021) - Score: 77%
 - **High School:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2013) - Score: 88.5%
 
