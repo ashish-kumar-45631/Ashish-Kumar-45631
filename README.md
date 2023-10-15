@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there! 👋 I'm Ashish Kumar</h1>
+<h1 align="center">Hi! 👋 I'm Ashish Kumar</h1>
 <h3 align="center">Student of Computer Science and Engineering | Problem Solver</h3>
 
 <img
