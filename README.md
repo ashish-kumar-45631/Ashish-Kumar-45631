@@ -22,10 +22,6 @@
 - **Intermediate:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2021) - Score: 77%
 - **High School:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2019) - Score: 88.5%
 
-### Internships
-- **Campus Ambassador (Internship):** Coding Ninjas (September 2023 – Present)
-- **Web Developer (Internship):** Coders Cave (September 2023 – October 2023)
-
 ### Language and Tools
 - **Operating System:** Mac, Windows, Linux
 - **Languages:** C/C++, Python
