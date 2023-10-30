@@ -19,8 +19,8 @@
 />
 
 - **Graduation:** Bachelor of Techonology, Graphic Era University, Dehradun (2025 - Ongoing)
-- **Intermediate:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2021) - Score: 77%
-- **High School:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2019) - Score: 88.5%
+- **Intermediate:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2021)
+- **High School:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2019) 
 
 ### Language and Tools
 - **Operating System:** Mac, Windows, Linux
