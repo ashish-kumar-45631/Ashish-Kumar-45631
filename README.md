@@ -25,8 +25,7 @@
 ### Language and Tools
 - **Operating System:** Mac, Windows, Linux
 - **Languages:** C/C++, Python
-- **Web Development:** MERN/MEAN Stack, HTML, CSS, JS
-- **Database:** MySQL, Oracle Database
+- **Web Development:** MERN Stack, HTML, CSS, JS
 - **Tools:** GitHub, , AWS
 
   <p align="left">
