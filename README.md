@@ -8,9 +8,6 @@
   src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"
 />
 
-### About Me
-🌱 I am a passionate and skilled software engineer with a keen interest in innovation and problem-solving. Currently pursuing my degree in Computer Science and Engineering from Graphic Era University, Dehradun🏢.
-
 ### Academic Details
 <img
   alt="coding"
@@ -25,8 +22,10 @@
 ### Language and Tools
 - **Operating System:** Mac, Windows, Linux
 - **Languages:** C/C++, Python
-- **Web Development:** MERN Stack, HTML, CSS, JS
-- **Tools:** GitHub, , AWS
+- **Web Development:**
+  FrontEnd: HTML, CSS, JavaScript(AJAX, JQuery), ReactJS, Bootstrap
+  Backend: NodeJS, PHP
+- **Other:** Git, Azure, AWS
 
   <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -54,14 +53,7 @@
     />
   </a>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
+
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -104,14 +96,6 @@
       height="40"
     />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-      alt="scikit_learn"
-      width="40"
-      height="40"
-    />
-  </a>
 
 
 
@@ -128,7 +112,7 @@
 ashish45631@gmail.com
 
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">LinkedIn</h3>
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/ashish-kumar-155169251" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashish-kumar-155169251" height="30" width="40" />
