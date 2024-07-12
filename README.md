@@ -24,7 +24,7 @@
 - **Languages:** C/C++, Python
 - **Web Development:**
   FrontEnd: HTML, CSS, JavaScript(AJAX, JQuery), ReactJS, Bootstrap
-  Backend: NodeJS, PHP
+  || Backend: NodeJS, PHP
 - **Other:** Git, Azure, AWS
 
   <p align="left">
