@@ -103,9 +103,9 @@
 
 
 ### Hobbies
-- Reading and writing articles
 - Playing Chess♞
 - Cycling🚲
+- Cooking
 
 
 ### This is my Gmail
