@@ -19,13 +19,13 @@
 - **Intermediate:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2021)
 - **High School:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2019) 
 
-### Language and Tools
+### Skills
 - **Operating System:** Mac, Windows, Linux
 - **Languages:** C/C++, Python
-- **Web Development:**
-  FrontEnd: HTML, CSS, JavaScript(AJAX, JQuery), ReactJS, Bootstrap
-  || Backend: NodeJS, PHP
-- **Other:** Git, Azure, AWS
+- **Web Development (Languages, Tools and Frameworks):**
+  FrontEnd: HTML, CSS, JavaScript(AJAX, JQuery), ReactJS, Bootstrap, Firebase, jsx
+  || Backend: NodeJS, PHP, ExpressJS, Postman, MongoDB, MySQL, ejs, 
+- **Other:** Git, Azure, Amazon Web Services, Vs Code, Pycharm, Jupyter
 
   <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
