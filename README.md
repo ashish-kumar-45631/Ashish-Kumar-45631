@@ -129,12 +129,6 @@ ashish45631@gmail.com
     />
   </p>
   
-  <p>
-    <img
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-19-01&"
-      alt="ashish-19-01"
-    />
-  </p>
+
   
 
