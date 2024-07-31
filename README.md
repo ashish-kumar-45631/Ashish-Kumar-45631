@@ -120,15 +120,7 @@ ashish45631@gmail.com
 </p>
 
 
-  
-  <p>
-    &nbsp;<img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=ashish-19-01&show_icons=true&locale=en"
-      alt="ashish-19-01"
-    />
-  </p>
-  
+
 
   
 
