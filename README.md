@@ -108,7 +108,7 @@
 
 
 ### Hobbies
-- Playing Chess♞
+- Chess♞
 - Cycling🚲
 - Cooking
 
