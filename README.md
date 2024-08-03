@@ -9,23 +9,28 @@
 />
 
 ### Academic Details
-<img
-  alt="coding"
-  width="400px"
-  src="https://previews.123rf.com/images/jihane123/jihane1231605/jihane123160500015/56949834-beautiful-university-cartoon.jpg"
-/>
 
 - **Graduation:** Bachelor of Techonology, Graphic Era University, Dehradun (2025 - Ongoing)
 - **Intermediate:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2021)
 - **High School:** LJP Saraswati Vidya Mandir, Muzaffarnagar (UP Board, 2019) 
 
-### Skills
-- **Operating System:** Mac, Windows, Linux
-- **Languages:** C/C++, Python
-- **Web Development (Languages, Tools and Frameworks):**
-  FrontEnd: HTML, CSS, JavaScript(AJAX, JQuery), ReactJS, Bootstrap, Firebase, jsx
-  || Backend: NodeJS, PHP, ExpressJS, Postman, MongoDB, MySQL, ejs, 
-- **Other:** Git, Azure, Amazon Web Services, Vs Code, Pycharm, Jupyter
+
+## 🛠️ Technical Skills
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      Technical skills are essential tools that empower engineers to tackle challenges and create innovative solutions. These skills form the foundation of our professional capabilities, enabling us to develop, design, and improve technology. As an engineer, I continuously refine my skills and learn new technologies to stay ahead in the ever-evolving tech landscape.
+    </p>
+    <ul>
+      <li><strong>Programming Languages:</strong> Cpp, C, Python</li>
+      <li><strong>Web Technologies:</strong> HTML, CSS, React, Node.js, Express, Firebase, JQuery, JavaScript, SQL, PHP, JSX, Bootstrap</li>
+      <li><strong>Databases:</strong> MySQL, MongoDB (Mongoose)</li>
+      <li><strong>Tools & Platforms:</strong> Git, Postman, AWS, VS Code, Render</li>
+      <li><strong>Others:</strong> Testing, Debugging</li>
+    </ul>
+  </div>
+
+</div>
 
   <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
