@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi! 👋 I'm Ashish Kumar</h1>
-<h3 align="center">Student of Computer Science and Engineering | Problem Solver</h3>
+<h3 align="center">Computer Science and Engineering | Problem Solver</h3>
 
 <img
   alt="coding"
