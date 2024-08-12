@@ -126,15 +126,48 @@ ashish45631@gmail.com
   </a>
 </p>
 
-# Repository Details 
 
-## Notes
 
-### Computer Networks: 
-### Front-End: 
+## Repository Details 
+
+### Notes: 
+
+#### -[Computer Networks:](https://github.com/Ashish-Kumar-45631/Ashish-Kumar-45631)
+#### -[Front-End:](https://github.com/Ashish-Kumar-45631/Ashish-Kumar-45631)
+#### -[Back-End:](https://github.com/Ashish-Kumar-45631/Ashish-Kumar-45631)
+#### -[Advanced Front-End:](https://github.com/Ashish-Kumar-45631/Ashish-Kumar-45631)
+
+
+### Front-End:
+
+#### -[Quiz Game](https://github.com/Ashish-Kumar-45631/Quiz-Game)
+#### -[Five Tips for Web Development](https://github.com/Ashish-Kumar-45631/Five-tips-for-Web-Development)
+#### -[Bubble Sort Vizualizer](https://github.com/Ashish-Kumar-45631/Bubble-Sort-Visualizer)
+#### -[Music App](https://github.com/Ashish-Kumar-45631/Music-App)
+#### -[Ashish PortFolio](https://github.com/Ashish-Kumar-45631/Ashish-Portfolio)
+
+
 ### Back-End:
+
+#### -[Invertory Store](https://github.com/Ashish-Kumar-45631/Inventory-Store)
+#### -[NodeJS Server](https://github.com/Ashish-Kumar-45631/NodeJS-Server)
+#### -[Sending HTML to Server](https://github.com/Ashish-Kumar-45631/Sending_HTML_To_Server)
+
+
 ### Advanced Front-End:
 
+#### -[Favourite Food](https://github.com/Ashish-Kumar-45631/Favourite-Food-App)
+#### -[Score Keeper](https://github.com/Ashish-Kumar-45631/Score_Keeper_App)
+#### -[NFTium App](https://github.com/Ashish-Kumar-45631/NFTium-App)
+#### -[Anime Pedia](https://github.com/Ashish-Kumar-45631/Anime-Pedia)
+#### -[Code Tube](https://github.com/Ashish-Kumar-45631/Code-Tube-App)
+
+
+### Machine Learning:
+
+#### -[Resume Screening App](https://github.com/Ashish-Kumar-45631/Resume-Screening-App)
+#### -[Keyboard Auto Suggesiton System](https://github.com/Ashish-Kumar-45631/Keyboard-Auto-Suggestion-System)
+#### -[Depression Detection System](https://github.com/Ashish-Kumar-45631/Depression-Detection-System)
 
 
 
