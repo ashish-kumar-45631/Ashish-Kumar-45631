@@ -117,14 +117,7 @@
 ashish45631@gmail.com
 
 
-### Repository Details 
 
-## Notes
-
-# Computer Networks: 
-# Front-End: 
-# Back-End:
-# Advanced Front-End:
 
 <h3 align="left">LinkedIn</h3>
 <p align="left">
@@ -132,6 +125,15 @@ ashish45631@gmail.com
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashish-kumar-155169251" height="30" width="40" />
   </a>
 </p>
+
+# Repository Details 
+
+## Notes
+
+### Computer Networks: 
+### Front-End: 
+### Back-End:
+### Advanced Front-End:
 
 
 
