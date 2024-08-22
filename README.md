@@ -23,9 +23,9 @@
     </p>
     <ul>
       <li><strong>Programming Languages:</strong> Cpp, C, Python</li>
-      <li><strong>Web Technologies:</strong> HTML, CSS, React, Node.js, Express, Firebase, JQuery, JavaScript, SQL, PHP, JSX, Bootstrap</li>
-      <li><strong>Databases:</strong> MySQL, MongoDB (Mongoose)</li>
-      <li><strong>Tools & Platforms:</strong> Git, Postman, AWS, VS Code, Render</li>
+      <li><strong>Web Technologies:</strong> HTML, CSS, React, Node.js, Express, JQuery, JavaScript, SQL, PHP, JSX, Bootstrap</li>
+      <li><strong>Databases:</strong> MySQL, MongoDB, Firebase</li>
+      <li><strong>Tools & Platforms:</strong> Git, Postman, AWS, VS Code</li>
       <li><strong>Others:</strong> Testing, Debugging</li>
     </ul>
   </div>
