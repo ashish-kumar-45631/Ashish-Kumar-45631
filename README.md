@@ -107,12 +107,6 @@
 </p>
 
 
-### Hobbies
-- Chess♞
-- Cycling🚲
-- Cooking
-
-
 ### Gmail
 ashish45631@gmail.com
 
