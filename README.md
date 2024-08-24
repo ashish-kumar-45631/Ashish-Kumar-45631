@@ -130,6 +130,9 @@ ashish45631@gmail.com
 #### -[Front-End:](https://github.com/Ashish-Kumar-45631/Ashish-Kumar-45631)
 #### -[Back-End:](https://github.com/Ashish-Kumar-45631/Ashish-Kumar-45631)
 #### -[Advanced Front-End:](https://github.com/Ashish-Kumar-45631/Ashish-Kumar-45631)
+#### -Compiler Design: (private)
+#### -Database Management System: (private)
+#### -Object Oriented Programming: (private)
 
 
 ### Front-End:
@@ -155,6 +158,13 @@ ashish45631@gmail.com
 #### -[NFTium App](https://github.com/Ashish-Kumar-45631/NFTium-App)
 #### -[Anime Pedia](https://github.com/Ashish-Kumar-45631/Anime-Pedia)
 #### -[Code Tube](https://github.com/Ashish-Kumar-45631/Code-Tube-App)
+#### -[Movie App](https://github.com/Ashish-Kumar-45631/Movie-App)
+#### -[TODO List](https://github.com/Ashish-Kumar-45631/TODO-App)
+#### -[TypeWriter App](https://github.com/Ashish-Kumar-45631/TypeWriter-App)
+#### -[Network App](https://github.com/Ashish-Kumar-45631/Network-App)
+#### -[Photo Album](https://github.com/Ashish-Kumar-45631/Photo-Album)
+
+
 
 
 ### Machine Learning:
